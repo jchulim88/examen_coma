@@ -4,5 +4,5 @@ typescript se instala la ultima versión
 
 nodejs se instala la ultima versión
 Angular cli se instala la ultima versión
-
+toastr para dar estilo a las notificaciones
 el proyecto esta realizado con asp .NET core 3.1
