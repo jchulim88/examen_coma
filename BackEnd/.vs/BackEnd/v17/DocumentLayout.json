@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus Chulim\\Desktop\\examen coma\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{804A7BF3-7DB2-4B57-9D92-2E94F023E133}|BackEnd\\BackEnd.csproj|c:\\users\\jesus chulim\\desktop\\examen coma\\backend\\backend\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804A7BF3-7DB2-4B57-9D92-2E94F023E133}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804A7BF3-7DB2-4B57-9D92-2E94F023E133}|BackEnd\\BackEnd.csproj|c:\\users\\jesus chulim\\desktop\\examen coma\\backend\\backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804A7BF3-7DB2-4B57-9D92-2E94F023E133}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Chulim\\Desktop\\examen coma\\BackEnd\\BackEnd\\Startup.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Startup.cs",
+              "ToolTip": "C:\\Users\\Jesus Chulim\\Desktop\\examen coma\\BackEnd\\BackEnd\\Startup.cs",
+              "RelativeToolTip": "BackEnd\\Startup.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA9wCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:47:15.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Chulim\\Desktop\\examen coma\\BackEnd\\BackEnd\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Jesus Chulim\\Desktop\\examen coma\\BackEnd\\BackEnd\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:35:12.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
