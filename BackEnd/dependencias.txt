@@ -1,3 +1,5 @@
+Solo se requiere instalar estas dependencias
+en el api 
 Entity framework core 3.1.32
 Entity framework core sql server 3.1.32
 Entity framework core tools 3.1.32

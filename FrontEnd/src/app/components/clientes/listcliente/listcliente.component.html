@@ -1,0 +1,17 @@
+<table class="table table-sm">
+    <tr *ngFor="let cliente of clienteService.list">
+
+        <td>{{cliente.nombre}}</td>
+        <td>{{cliente.apellido}}</td>
+        <td>{{cliente.edad}}</td>
+        <td>{{cliente.correo_electronico}}</td>
+        <td>{{cliente.tipo_usuario}}</td>
+        <td>
+            <i class="bi bi-pencil-fill" (click)="editar(cliente)" style="cursor: pointer;"></i>
+        </td>
+        <td>
+            <i class="bi-trash3" (click)="eliminarCliente(cliente.id)" style="cursor: pointer;"></i>
+        </td>
+    </tr>
+
+</table>
