@@ -1,0 +1,8 @@
+se requiere 
+dependencias
+typescript se instala la ultima versión
+
+nodejs se instala la ultima versión
+Angular cli se instala la ultima versión
+
+el proyecto esta realizado con asp .NET core 3.1
